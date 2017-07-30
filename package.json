@@ -1,0 +1,29 @@
+{ "name": "humanuri",
+  "version": "1.0.0",
+  "description": "A more cautious alternative to humanize-url.",
+  "keywords": [ "humanize", "url" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/humanuri-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/humanuri-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/humanuri-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "hum.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "equal-pmb": "^0.1.6"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
