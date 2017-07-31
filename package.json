@@ -1,5 +1,5 @@
 { "name": "humanuri",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A more cautious alternative to humanize-url.",
   "keywords": [ "humanize", "url" ],
 
@@ -21,7 +21,10 @@
 
   "dependencies": {},
   "devDependencies": {
-    "equal-pmb": "^0.1.6"
+    "equal-pmb": "^0.1.11",
+    "humanize-url": "^1.0.1",
+    "read-resolved-file-sync": "^1.0.1",
+    "usnam-pmb": "^0.2.3"
   },
 
 
